@@ -1,0 +1,26 @@
+main:
+Welcome User
+While loop to prompt user to enter code
+    Calls prompt function
+    
+prompt:
+If -1 end program
+If invalid state options out
+Else if valid prompt them a question based off criteria provided.
+    - Manager is a flat 1000$
+    - calls hourly
+    - calls cake 
+    - call janitor 
+    Then Prompt user to enter another code
+
+hourly:
+- # of hours worked for hourly worker
+    - produces how much they earned
+
+cake:
+- # of Cakes decorated for Cake Decorators
+    - produces how much they earned
+
+janitor:
+- # of days worked for janitors
+    - produces how much they earned
